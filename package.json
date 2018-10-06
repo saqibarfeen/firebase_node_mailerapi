@@ -1,0 +1,18 @@
+{
+  "name": "firebase_nodejs_email",
+  "version": "1.0.0",
+  "description": "This is for Mohsin bhai project for internet requets application, it is a cron mailer and api for firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "firebase": "^5.5.2",
+    "fs": "0.0.1-security",
+    "node-cron": "^2.0.1",
+    "nodemailer": "^4.6.8"
+  }
+}
